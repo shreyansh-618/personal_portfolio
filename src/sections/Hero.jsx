@@ -46,7 +46,6 @@ const Hero = () => {
             variants={itemVariants}
             className="text-primary font-bold tracking-[0.3em] uppercase mb-4 text-sm"
           >
-            Digital Experiences Architect
           </motion.p>
 
           <motion.h1
